@@ -1,2 +1,2 @@
 # root
-any quadratric 
+many type of roots quadratric 
